@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\removie.Models\removie.Core.csproj" />
+    <ProjectReference Include="..\removie.Shared\removie.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
